@@ -1,0 +1,1 @@
+This full-stack project focuses on building an AI-driven elderly care app with microservices architecture, featuring real-time health monitoring, an accessible Streamlit UI, and secure PostgreSQL data management, enhancing elderly independence and safety
