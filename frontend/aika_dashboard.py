@@ -73,7 +73,6 @@ def personal_information():
     if not user_data:
         st.error("Failed to load personal information.")
         return
-    
     # Basic info styling
     st.markdown("""
         <style>
